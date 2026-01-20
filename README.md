@@ -97,7 +97,7 @@ Your notes here...
 ## Takeaways
 - Takeaway 1
 - Takeaway 2
-```
+
 
 ## 🔗 Resources
 
