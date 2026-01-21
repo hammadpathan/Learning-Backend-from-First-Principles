@@ -4,6 +4,10 @@ This repository contains backend engineering concepts taught from **first princi
 
 The goal is to understand *why* backend systems are built the way they are — not just *how* to use a specific tool.
 
+I am taking notes by hand in Notion as I follow along the course, and converting them to clean MD files with AI to get rid of any bad notetaking.
+
+You are welcome to use my personal notes, or the cleaned up ones.
+
 ---
 
 ## 📚 Topics
