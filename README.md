@@ -5,9 +5,9 @@ Notes and resources from the YouTube course "Learning Backend from First Princip
 ## 📚 Course Topics (31 Lessons)
 
 ### Foundations
-- [ ] 1. High Level Understanding
-- [ ] 2. HTTP Protocol
-- [ ] 3. Routing
+- [x] 1. High Level Understanding
+- [x] 2. HTTP Protocol
+- [x] 3. Routing
 
 ### Request/Response Cycle
 - [ ] 4. Serialization and Deserialization
@@ -59,24 +59,6 @@ Notes and resources from the YouTube course "Learning Backend from First Princip
 ### Deployment
 - [ ] 31. DevOps for Backend Engineers
 
-## 📁 Folder Structure
-
-```
-├── 01-foundations/
-├── 02-request-response/
-├── 03-api-design/
-├── 04-data-layer/
-├── 05-performance/
-├── 06-background-tasks/
-├── 07-reliability/
-├── 08-security/
-├── 09-file-storage/
-├── 10-real-time/
-├── 11-quality-standards/
-├── 12-deployment/
-└── code-examples/
-```
-
 ## 📝 Note Template
 
 ```markdown
@@ -103,6 +85,7 @@ Your notes here...
 
 - **Course**: Backend from First Principles (YouTube) - https://www.youtube.com/playlist?list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1
 - **Focus**: Philosophy and universal concepts, not tied to specific tech stacks
+- **Personal Notion Notes**: https://www.notion.so/Backend-from-the-First-Principles-2ecfbb065ffb80f1b0f9ec4ec31028e4?source=copy_link
 
 ## 📄 License
 
@@ -110,5 +93,5 @@ This repository is open source and available for educational purposes.
 
 ---
 
-**Last Updated**: January 19, 2026
+**Last Updated**: January 21, 2026
 **Status**: 🚧 Work in Progress
