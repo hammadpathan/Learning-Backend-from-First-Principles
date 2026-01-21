@@ -1,90 +1,59 @@
-# Learning Backend from First Principles
+# Backend from First Principles
 
-Notes and resources from the YouTube course "Learning Backend from First Principles" - covering universal backend engineering concepts applicable across all tech stacks.
+This repository contains backend engineering concepts taught from **first principles**, focusing on ideas that apply universally across languages, frameworks, and tech stacks.
 
-## 📚 Course Topics (31 Lessons)
+The goal is to understand *why* backend systems are built the way they are — not just *how* to use a specific tool.
 
-### Foundations
-- [x] 1. High Level Understanding
-- [x] 2. HTTP Protocol
-- [x] 3. Routing
+---
 
-### Request/Response Cycle
-- [ ] 4. Serialization and Deserialization
-- [ ] 5. Authentication and Authorization
-- [ ] 6. Validation and Transformation
-- [ ] 7. Middlewares
-- [ ] 8. Request Context
+## 📚 Topics
 
-### API Design
-- [ ] 9. Handlers and Controllers
-- [ ] 10. CRUD Deep Dive
-- [ ] 11. REST Best Practices
+1. [High-Level Understanding](./01-high-level-understanding.md)
+2. [HTTP Protocol](./02-http-protocol.md)
+3. [Routing](./03-routing.md)
+4. [Serialization and Deserialization](./04-serialization-deserialization.md)
+5. Authentication and Authorization
+6. Validation and Transformation
+7. Middlewares
+8. Request Context
+9. Handlers and Controllers
+10. CRUD Deep Dive
+11. REST Best Practices
+12. Databases
+13. Business Logic Layer (BLL)
+14. Caching
+15. Transactional Emails
+16. Task Queuing and Scheduling
+17. Elasticsearch
+18. Error Handling
+19. Config Management
+20. Logging, Monitoring, and Observability
+21. Graceful Shutdown
+22. Security
+23. Scaling and Performance
+24. Concurrency and Parallelism
+25. Object Storage and Large Files
+26. Real-Time Backend Systems
+27. Testing and Code Quality
+28. 12 Factor App Principles
+29. OpenAPI Standard
+30. Webhooks
+31. DevOps for Backend Engineers
 
-### Data Layer
-- [ ] 12. Databases
-- [ ] 13. Business Logic Layer (BLL)
+---
 
-### Performance
-- [ ] 14. Caching
-- [ ] 17. Elasticsearch
-- [ ] 23. Scaling and Performance
-- [ ] 24. Concurrency and Parallelism
+## 🎯 Expectations
 
-### Background Tasks
-- [ ] 15. Transactional Emails
-- [ ] 16. Task Queuing and Scheduling
-
-### Reliability
-- [ ] 18. Error Handling
-- [ ] 19. Config Management
-- [ ] 20. Logging, Monitoring and Observability
-- [ ] 21. Graceful Shutdown
-
-### Security
-- [ ] 22. Security
-
-### File Storage
-- [ ] 25. Object Storage and Large Files
-
-### Real-time Systems
-- [ ] 26. Real-time Backend Systems
-- [ ] 30. Webhooks
-
-### Quality & Standards
-- [ ] 27. Testing and Code Quality
-- [ ] 28. 12 Factor App Principles
-- [ ] 29. OpenAPI Standard
-
-### Deployment
-- [ ] 31. DevOps for Backend Engineers
-
-## 📝 Note Template
-
-```markdown
-# Lesson X: Topic Name
-
-## Key Concepts
-- Concept 1
-- Concept 2
-
-## Notes
-Your notes here...
-
-## Code Examples
-```language
-// code here
-```
-
-## Takeaways
-- Takeaway 1
-- Takeaway 2
-
+- Focus on **backend philosophy and system design**
+- Language-agnostic concepts
+- Implementation details live in separate deep-dive tracks:
+  - Node.js
+  - Go
+- Emphasis on **production-level thinking and projects**
 
 ## 🔗 Resources
 
 - **Course**: Backend from First Principles (YouTube) - https://www.youtube.com/playlist?list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1
-- **Focus**: Philosophy and universal concepts, not tied to specific tech stacks
 - **Personal Notion Notes**: https://www.notion.so/Backend-from-the-First-Principles-2ecfbb065ffb80f1b0f9ec4ec31028e4?source=copy_link
 
 ## 📄 License
