@@ -1,0 +1,3 @@
+This is the prompt I am using to convert each of my personal written notes into a clean structured set of notes.
+
+"Create cleaned-up lesson notes for [TOPIC NAME] in [##-topic-name.md]"
