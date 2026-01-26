@@ -124,7 +124,7 @@ They were initially a **stateless** mechanisms for transfering claimsin in a sta
 
 The key innovation here was that they were **self-contained**. they had the user data, and the crypographic signatures in ONE token (base64 encoded).
 
-![5-jwtexample.png](/images/5-jwtexample.png)
+![5-jwtexample.png](/og_notes/images/5-jwtexample.png)
 
 The first part is the header: specifics metadata, like signing algorithm.
 
