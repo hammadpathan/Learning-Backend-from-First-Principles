@@ -18,7 +18,7 @@ You are welcome to use my personal notes, or the cleaned up ones.
 2. [HTTP Protocol](./02-http-protocol.md)
 3. [Routing](./03-routing.md)
 4. [Serialization and Deserialization](./04-serialization-deserialization.md)
-5. Authentication and Authorization
+5. [Authentication and Authorization](./05-authentication-and-authorization.md)
 6. Validation and Transformation
 7. Middlewares
 8. Request Context
