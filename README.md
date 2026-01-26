@@ -6,9 +6,9 @@ Taught by https://www.youtube.com/@sriniously
 
 The goal is to understand *why* backend systems are built the way they are — not just *how* to use a specific tool.
 
-I am taking notes by hand in Notion as I follow along the course, and converting them to clean MD files with AI to get rid of any bad notetaking.
+I am taking notes by hand in Notion as I follow along the course, and converting them to clean MD files with AI to simplify and make clearer.
 
-You are welcome to use my personal notes, or the cleaned up ones.
+I think my personal notes are better with more thoughtful explanations, but if you want fast concepts the cleansed ones work well.
 
 ---
 
@@ -52,9 +52,6 @@ You are welcome to use my personal notes, or the cleaned up ones.
 
 - Focus on **backend philosophy and system design**
 - Language-agnostic concepts
-- Implementation details live in separate deep-dive tracks:
-  - Node.js
-  - Go
 - Emphasis on **production-level thinking and projects**
 
 ## 🔗 Resources
@@ -68,5 +65,5 @@ This repository is open source and available for educational purposes.
 
 ---
 
-**Last Updated**: January 21, 2026
+**Last Updated**: January 25, 2026
 **Status**: 🚧 Work in Progress
