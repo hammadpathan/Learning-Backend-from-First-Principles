@@ -32,7 +32,7 @@ sequenceDiagram
   S->>S: Validate user
   S->>R: Create session {id, user, ttl}
   R-->>S: Session saved
-  S-->>C: Set-Cookie: sid={id}; HttpOnly
+  S->>C: Set-Cookie: sid={id} (HttpOnly)
   C->>S: Subsequent request + Cookie(sid)
   S->>R: Lookup sid
   R-->>S: Session data
