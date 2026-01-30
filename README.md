@@ -19,7 +19,7 @@ I think my personal notes are better with more thoughtful explanations, but if y
 3. [Routing](./03-routing.md)
 4. [Serialization and Deserialization](./04-serialization-deserialization.md)
 5. [Authentication and Authorization](./05-authentication-and-authorization.md)
-6. Validation and Transformation
+6. [Validation and Transformation](./06-validation-and-transformation.md)
 7. Middlewares
 8. Request Context
 9. Handlers and Controllers
