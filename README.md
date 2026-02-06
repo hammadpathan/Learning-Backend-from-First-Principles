@@ -20,9 +20,9 @@ I think my personal notes are better with more thoughtful explanations, but if y
 4. [Serialization and Deserialization](./04-serialization-deserialization.md)
 5. [Authentication and Authorization](./05-authentication-and-authorization.md)
 6. [Validation and Transformation](./06-validation-and-transformation.md)
-7. Middlewares
-8. Request Context
-9. Handlers and Controllers
+7. [Middlewares](07-08-09-controllers-services-middleware-requestcontext.md)
+8. [Request Context](07-08-09-controllers-services-middleware-requestcontext.md)
+9. [Handlers and Controllers](07-08-09-controllers-services-middleware-requestcontext.md)
 10. CRUD Deep Dive
 11. REST Best Practices
 12. Databases
@@ -65,5 +65,5 @@ This repository is open source and available for educational purposes.
 
 ---
 
-**Last Updated**: January 30, 2026
+**Last Updated**: February 05, 2026
 **Status**: 🚧 Work in Progress
